@@ -7,3 +7,6 @@ Raspberry PI GUI (QT Widgets)
 
 Raspberry PI/macOS test GUI in QT QML 
 ![Zrzut ekranu 2023-09-24 o 13 42 15](https://github.com/CodeMaze-Software/QT-QML-Raspberry-PI-MPD-Touchscreen-audio-player/assets/60901046/a6da5d3f-41fe-4f4a-84f9-d1820ad94999)
+
+Connected MPD Pilot application on iPhone for remote multimedia files management
+![IMG_A32ABAD57EAF-1](https://github.com/CodeMaze-Software/QT-QML-Raspberry-PI-MPD-Touchscreen-audio-player/assets/60901046/37bb35e3-d733-4ce0-98c8-fa23d4f12145)
